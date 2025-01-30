@@ -7,4 +7,10 @@
 
 ### Colab Example
  This is the [notebook](https://github.com/eyegabato/technical-discussion/blob/5bdf587436fffd493adffcc19bd75b02ad0c1e16/technical-discussion.ipynb)
-   
+  
+### Images
+
+This is the issue
+
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/2b8e8627-9bc4-48fc-9958-f3dcf0223800" />
+
